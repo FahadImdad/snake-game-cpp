@@ -56,15 +56,15 @@ It showcases the basics of C++ programming, including loops, conditionals, and c
 
 ## 🖼️ Gameplay Preview
 ### Start Screen  
-![Start Screen](images/screenshot1.png)
+![Start Screen](Images/screenshot1.png)
 
 ### Gameplay  
-![Gameplay](images/screenshot2.png)
+![Gameplay](Images/screenshot2.png)
 
 ### Game Over  
-![Game Over](images/screenshot3.png)
+![Game Over](Images/screenshot3.png)
 
-> **Note:** Make sure to save the screenshots in the `images` folder within the project directory.  
+> **Note:** Make sure to save the screenshots in the `Images` folder within the project directory.  
 > Alternatively, upload the images to the GitHub repository and use the raw URLs for better display.
 
 ---
@@ -72,13 +72,14 @@ It showcases the basics of C++ programming, including loops, conditionals, and c
 ## 📂 File Structure
 ```
 snake-game-cpp/
-├── images/
+├── Images/
 │   ├── screenshot1.png
 │   ├── screenshot2.png
 │   └── screenshot3.png
-├── snake_game.cpp  # Main game logic
-├── README.md       # Game description and setup
-└── LICENSE         # MIT License file
+├── LICENSE              # MIT License file
+├── README.md            # Game description and setup
+├── snake_game.cpp       # Main game logic
+└── snake_game.exe       # Compiled executable
 ```
 
 ---
